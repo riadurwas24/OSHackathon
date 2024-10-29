@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.input-container {
+    margin-bottom: 20px;
+}
+
+.process-table-container {
+    margin-bottom: 20px;
+}
+
+.algorithm-selection {
+    margin-bottom: 20px;
+}
+
+.gantt-chart-container {
+    margin-bottom: 20px;
+}
+
+.results-container {
+    margin-bottom: 20px;
+}
+
+#process-table {
+    border-collapse: collapse;
+}
+
+#process-table th, #process-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+#gantt-chart {
+    border: 1px solid #ddd;
+}
